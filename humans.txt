@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kikasen kikasen@email.com @kikatweet
 
 # THANKS
 
